@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working at NEW IT VENTURE CORPORATION (NITV JAPAN)
+- 📫 How to reach me: http://reshampokhrel.com.np
 
 <!--
 **resham57/resham57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
