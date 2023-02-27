@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working at NEW IT VENTURE CORPORATION (NITV JAPAN)
 - 📫 How to reach me: https://reshampokhrel.com.np
 
 <!--
